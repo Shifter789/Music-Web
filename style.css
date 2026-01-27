@@ -18,10 +18,64 @@ h1 {
     border: 15px solid green;
     background-color: red;
     padding: 45px;
-    margin: 10;
+    margin: auto;
 }
 
 .div-2 {
+    width: 300px;
+    padding: 45px;
+    margin: auto;
+
+    font-size: 20px;
+    border: 15px solid rgb(89, 0, 255);
+    background-color: rgb(255, 132, 0);
+}
+.div-3 {
+    width: 300px;
+    padding: 45px;
+    margin: auto;
+
+    font-size: 20px;
+    border: 15px solid rgb(89, 0, 255);
+    background-color: rgb(255, 132, 0);
+}
+.div-4 {
+    width: 300px;
+    padding: 45px;
+    margin: auto;
+
+    font-size: 20px;
+    border: 15px solid rgb(89, 0, 255);
+    background-color: rgb(255, 132, 0);
+}
+.div-5 {
+    width: 300px;
+    padding: 45px;
+    margin: auto;
+
+    font-size: 20px;
+    border: 15px solid rgb(89, 0, 255);
+    background-color: rgb(255, 132, 0);
+}
+.div-6 {
+    width: 300px;
+    padding: 45px;
+    margin: auto;
+
+    font-size: 20px;
+    border: 15px solid rgb(89, 0, 255);
+    background-color: rgb(255, 132, 0);
+}
+.div-7 {
+    width: 300px;
+    padding: 45px;
+    margin: auto;
+
+    font-size: 20px;
+    border: 15px solid rgb(89, 0, 255);
+    background-color: rgb(255, 132, 0);
+}
+.div-8 {
     width: 300px;
     padding: 45px;
     margin: auto;
