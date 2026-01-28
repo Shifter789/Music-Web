@@ -1,0 +1,48 @@
+
+body {
+    text-align: center;
+    background: rgb(20, 190, 160);
+}
+
+h1 {
+    font-size: 50px;
+    font-family: "Arial, sans-serif", 'Courier New', monospace;
+    text-shadow: rgb(255, 0, 0) 5px 5px 5px,  blue 10px 10px 10px;
+    color: rgb(255, 255, 255)
+}
+
+p {
+    font-family: "Times New Roman", serif;
+    font-size: 25px;
+    color: rgb(255, 255, 255);
+}
+
+.div-Chr {
+    width: 300px;
+    font-size: 20px;
+
+    border: 15px solid green;
+    background-color: red;
+    padding: 45px;
+    margin: auto;
+}
+
+.div-Hal {
+    width: 300px;
+    padding: 45px;
+    margin: auto;
+
+    font-size: 20px;
+    border: 15px solid rgb(89, 0, 255);
+    background-color: rgb(255, 132, 0);
+}
+.div-Eas {
+    width: 300px;
+    padding: 45px;
+    margin: auto;
+
+    font-size: 20px;
+    border: 15px solid rgb(89, 0, 255);
+    background-color: rgb(255, 132, 0);
+}
+
