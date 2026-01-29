@@ -25,13 +25,17 @@ p {
 
 .div-Chr {
     width: 300px;
+    height: auto;
     padding: 100px;
     margin: 5px;
 
     font-size: 20px;
     border: 15px solid green;
     background-color: red;
-    
+    background-image: url("https://media.istockphoto.com/id/2168503269/vector/horizontal-banner-with-gold-and-green-christmas-symbols-and-text.jpg?s=612x612&w=0&k=20&c=snygVBTHze-G5fzYcdKXHZ5BRNOoIfEM2PPuJe2MSnQ=");
+    background-size: cover;
+    background-position: center;
+  
 }
 
 .div-Hal {
@@ -42,6 +46,9 @@ p {
     font-size: 20px;
     border: 15px solid rgb(89, 0, 255);
     background-color: rgb(255, 132, 0);
+    background-image: url("https://png.pngtree.com/background/20230616/original/pngtree-halloween-funny-pumpkins-and-ghosts-wallpaper-picture-image_3620372.jpg");
+    background-size: cover;
+    background-position: center;
 }
 .div-Eas {
     width: 300px;
@@ -49,7 +56,10 @@ p {
     margin: 5px;
 
     font-size: 20px;
-    border: 15px solid rgb(255, 255, 255);
-    background-color: rgb(255, 215, 0);
+    border: 15px solid goldenrod; 
+    background-color: rgb(255, 255, 255);
+    background-image: url("https://images.template.net/122915/easter-pattern-background-6bvat.jpg");
+    background-size: cover;
+    background-position: center;
 }
 
