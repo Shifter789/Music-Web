@@ -25,7 +25,7 @@ p {
 
 .div-Chr {
     width: 300px;
-    height: auto;
+    height: 200;
     padding: 100px;
     margin: 5px;
 
@@ -35,7 +35,30 @@ p {
     background-image: url("https://media.istockphoto.com/id/2168503269/vector/horizontal-banner-with-gold-and-green-christmas-symbols-and-text.jpg?s=612x612&w=0&k=20&c=snygVBTHze-G5fzYcdKXHZ5BRNOoIfEM2PPuJe2MSnQ=");
     background-size: cover;
     background-position: center;
-  
+
+    .Christmas {
+        font-size: 40px;
+        padding: 10px 30px;
+        margin-top: 20px;
+
+        cursor: pointer;
+
+        background-color: green;
+        border: none;
+        border-radius: 15px;
+        color: red;
+        transition: background-color 0.3s ease, color 0.3s ease;
+    }
+
+    .Christmas:hover {
+        background-color: gold;
+        color: green;
+    }
+
+    .Christmas:active {
+        transform: scale(0.95);
+        background-color: gray;
+    }
 }
 
 .div-Hal {
@@ -44,12 +67,37 @@ p {
     margin: 5px;
 
     font-size: 20px;
-    border: 15px solid rgb(89, 0, 255);
-    background-color: rgb(255, 132, 0);
+    border: 15px solid purple;
+    background-color: orange;
     background-image: url("https://png.pngtree.com/background/20230616/original/pngtree-halloween-funny-pumpkins-and-ghosts-wallpaper-picture-image_3620372.jpg");
     background-size: cover;
     background-position: center;
+
+        .Halloween {
+        font-size: 40px;
+        padding: 10px 30px;
+        margin-top: 20px;
+
+        cursor: pointer;
+
+        background-color: purple;
+        border: none;
+        border-radius: 15px;
+        color: orange;
+        transition: background-color 0.3s ease, color 0.3s ease;
+    }
+
+    .Halloween:hover {
+        background-color: orange;
+        color: purple;
+    }
+
+    .Halloween:active {
+        transform: scale(0.95);
+        background-color: gray;
+    }
 }
+
 .div-Eas {
     width: 300px;
     padding: 100px;
@@ -61,5 +109,29 @@ p {
     background-image: url("https://images.template.net/122915/easter-pattern-background-6bvat.jpg");
     background-size: cover;
     background-position: center;
+
+    .Easter {
+        font-size: 40px;
+        padding: 10px 30px;
+        margin-top: 20px;
+
+        cursor: pointer;
+
+        background-color: goldenrod;
+        border: none;
+        border-radius: 15px;
+        color: white;
+        transition: background-color 0.3s ease, color 0.3s ease;
+    }
+
+    .Easter:hover {
+        background-color: white;
+        color: goldenrod;
+    }
+
+    .Easter:active {
+        transform: scale(0.95);
+        background-color: gray;
+    }
 }
 
