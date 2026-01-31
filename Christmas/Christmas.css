@@ -23,7 +23,7 @@ h1 {
         border: none;
         border-radius: 15px;
         color: white;
-        transition: background-color 0.3s ease, color 0.3s ease;
+        transition: background-color 0.2s ease, color 0.2s ease;
     }
 
     .back:hover {
@@ -33,4 +33,5 @@ h1 {
 
     .back:active {
         transform: scale(0.95);
+        background-color: green;
     }
