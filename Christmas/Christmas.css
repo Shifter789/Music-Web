@@ -1,0 +1,36 @@
+body {
+    background-image: linear-gradient(black, white);
+    background: url("https://media.istockphoto.com/id/1051910494/photo/christmas-frame-of-spruce-red-gold-christmas-decorations-on-white-space.webp?b=1&s=612x612&w=0&k=20&c=SQW7dfyMyLWdbZL7WrBhXJMHiiUzSg1POa6YHD_mfYY=");
+}
+
+h1 {
+    font-size: 150px;
+    text-align: center;
+    background-image: linear-gradient(red, rgb(0, 228, 0));
+    color: transparent;
+    background-clip: text;
+    margin-bottom: 65px;
+}
+
+        .back {
+        font-size: 40px;
+        padding: 10px 30px;
+        margin-top: 20px;
+
+        cursor: pointer;
+
+        background-color: gray;
+        border: none;
+        border-radius: 15px;
+        color: white;
+        transition: background-color 0.3s ease, color 0.3s ease;
+    }
+
+    .back:hover {
+        background-color: white;
+        color: gray;
+    }
+
+    .back:active {
+        transform: scale(0.95);
+    }
