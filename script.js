@@ -7,5 +7,5 @@ document.getElementById("Button1").onclick = function () {
 };
 
 document.getElementById("Button2").onclick = function () {
-    location.href = "Christmas/Christmas.html";
+    location.href = "Easter/Easter.html";
 };
