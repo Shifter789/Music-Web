@@ -4,7 +4,7 @@ body {
 }
 
 h1 {
-    font-size: 150px;
+    font-size: 120px;
     text-align: center;
     background-image: linear-gradient(orange, purple);
     color: transparent;
@@ -15,7 +15,6 @@ h1 {
         .back {
         font-size: 40px;
         padding: 10px 30px;
-        margin-top: 20px;
 
         cursor: pointer;
 
