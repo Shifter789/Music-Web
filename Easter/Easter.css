@@ -1,12 +1,12 @@
 body {
     background-image: linear-gradient(black, white);
-    background: url("https://static.vecteezy.com/system/resources/previews/003/230/647/non_2x/cute-halloween-background-with-spooky-elements-free-vector.jpg");
+    background: url("https://img.freepik.com/premium-photo/decorated-easter-eggs-grass_70626-6094.jpg?semt=ais_hybrid&w=740&q=80");
 }
 
 h1 {
     font-size: 120px;
     text-align: center;
-    background-image: linear-gradient(orange, purple);
+    background-image: linear-gradient(white, gold);
     color: transparent;
     background-clip: text;
     margin-bottom: 65px;
@@ -32,6 +32,6 @@ h1 {
 
     .back:active {
         transform: scale(0.95);
-        background-color: purple;
-        color: orange;
+        background-color: gold;
+        color: white;
     }
