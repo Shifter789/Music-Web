@@ -1,0 +1,38 @@
+body {
+    background-image: linear-gradient(black, white);
+    background: url("https://static.vecteezy.com/system/resources/previews/003/230/647/non_2x/cute-halloween-background-with-spooky-elements-free-vector.jpg");
+}
+
+h1 {
+    font-size: 150px;
+    text-align: center;
+    background-image: linear-gradient(orange, purple);
+    color: transparent;
+    background-clip: text;
+    margin-bottom: 65px;
+}
+
+        .back {
+        font-size: 40px;
+        padding: 10px 30px;
+        margin-top: 20px;
+
+        cursor: pointer;
+
+        background-color: gray;
+        border: none;
+        border-radius: 15px;
+        color: white;
+        transition: background-color 0.2s ease, color 0.2s ease;
+    }
+
+    .back:hover {
+        background-color: white;
+        color: gray;
+    }
+
+    .back:active {
+        transform: scale(0.95);
+        background-color: purple;
+        color: orange;
+    }
